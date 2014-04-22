@@ -6,7 +6,6 @@ $this->breadcrumbs=array(
 
 $this->menu=array(
 	array('label'=>'Generate order', 'url'=>array('order/generateOrder','id'=>$model->user_id)),
-	array('label'=>'Clear cart', 'url'=>array('order/delete',)),
 );
 ?>
 <h1>Current products</h1>
