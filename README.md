@@ -1,4 +1,4 @@
-MoblyTest
+Mobly
 =========
 
 Basic online store.
