@@ -3,8 +3,6 @@ MoblyTest
 
 Basic online store.
  
-- Sql structure in folder: htdocs\MoblyTest\protected\data\mobly.sql.
-
-- This was my first experience with Yii, and IT'S AWESOME.
+- SQL file (structure) in folder: protected\data\mobly.sql.
 
 Powered by Yii Framework: http://www.yiiframework.com/
