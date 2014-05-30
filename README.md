@@ -1,8 +1,10 @@
 MoblyTest
 =========
 
-- Mobly test solution by Juan Camilo Ramirez Padilla.
-
+Basic online store.
+ 
 - Sql structure in folder: htdocs\MoblyTest\protected\data\mobly.sql.
 
-- This was my first experience with Yii, and IT'S AWESOME. Thanks a lot for this test.
+- This was my first experience with Yii, and IT'S AWESOME.
+
+Powered by Yii Framework: http://www.yiiframework.com/
